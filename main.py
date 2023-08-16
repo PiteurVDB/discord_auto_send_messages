@@ -4,9 +4,9 @@ import random
 import sys
 
 # Discord Token
-USER_TOKEN = 'MjIwNTY3ODUzNjY3OTc1MTY4.G_JjZR.8M3-9mladwI7A56Y3NvvydPxVWJkYMKHVKfufM'
+USER_TOKEN = 'your token'
 # ID of the discord channel
-CHANNEL_ID = '1078813252433231922'
+CHANNEL_ID = 'the ID of the channel'
 
 # Random messages
 messages = [
